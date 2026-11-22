@@ -1,0 +1,3 @@
+Feature,Skewness,Kurtosis,Suggested Transformation
+price_inr,0.939,1.385,No major skewness
+numimages,0.0,0.0,No major skewness
