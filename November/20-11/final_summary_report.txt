@@ -1,0 +1,21 @@
+
+WOMEN'S CLOTHING - FINAL DATA SUMMARY REPORT
+
+Total Products: 5126
+Total Features: 12
+
+SUMMARY STATISTICS:
+                       count  mean   std  min   25%   50%   75%   max  Variance  Missing
+price_inr             5126.0  0.34  0.11  0.0  0.26  0.31  0.39  1.00      0.01        0
+numimages             5126.0  0.00  0.00  0.0  0.00  0.00  0.00  0.00      0.00        0
+productbrand_encoded  5126.0  0.01  0.02  0.0  0.00  0.01  0.01  0.06      0.00        0
+primarycolor_encoded  5126.0  0.12  0.08  0.0  0.04  0.13  0.19  0.22      0.01        0
+
+AUTOMATED DATA INSIGHTS:
+price_inr: Mean is 0.34, median is 0.31, and variance is 0.01. has a right-skewed distribution. Its skewness is relatively low.
+numimages: Mean is 0.00, median is 0.00, and variance is 0.00. has a relatively balanced distribution. Its skewness is relatively low.
+productbrand_encoded: Mean is 0.01, median is 0.01, and variance is 0.00. has a right-skewed distribution. It has strong positive skewness.
+primarycolor_encoded: Mean is 0.12, median is 0.13, and variance is 0.01. has a left-skewed distribution. Its skewness is relatively low.
+Top product brands are: AURELIA, W, Lavie, HERE&NOW, Roadster
+Popular product colours are: Blue, Red, Black, Green, White
+The dataset contains 2 product segments. Largest segment is 0 with 3757 products.
