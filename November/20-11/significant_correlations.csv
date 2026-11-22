@@ -1,0 +1,7 @@
+Method,Feature 1,Feature 2,Correlation,P-Value
+Pearson,price_inr,primarycolor_encoded,-0.078,0.0
+Pearson,productbrand_encoded,primarycolor_encoded,0.044,0.00155
+Spearman,price_inr,primarycolor_encoded,-0.058,3e-05
+Spearman,productbrand_encoded,primarycolor_encoded,0.036,0.00927
+Kendall,price_inr,primarycolor_encoded,-0.041,4e-05
+Kendall,productbrand_encoded,primarycolor_encoded,0.026,0.00854
