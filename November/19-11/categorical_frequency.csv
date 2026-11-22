@@ -1,0 +1,409 @@
+Feature,Category,Count,Percentage
+productbrand,AURELIA,307,5.99
+productbrand,W,261,5.09
+productbrand,Lavie,121,2.36
+productbrand,HERE&NOW,118,2.3
+productbrand,Roadster,108,2.11
+productbrand,DressBerry,106,2.07
+productbrand,Sonari,80,1.56
+productbrand,Vishudh,79,1.54
+productbrand,SHISEIDO,70,1.37
+productbrand,Soie,66,1.29
+productbrand,Carlton London,64,1.25
+productbrand,Van Heusen Woman,64,1.25
+productbrand,Inc 5,64,1.25
+productbrand,Veni Vidi Vici,62,1.21
+productbrand,Tokyo Talkies,59,1.15
+productbrand,PARFAIT,58,1.13
+productbrand,Mast & Harbour,58,1.13
+productbrand,Karmic Vision,58,1.13
+productbrand,GNIST,58,1.13
+productbrand,Global Desi,51,0.99
+productbrand,AccessHer,50,0.98
+productbrand,GIORDANO,50,0.98
+productbrand,Bodycare,48,0.94
+productbrand,Belle Fille,46,0.9
+productbrand,Kvsfab,44,0.86
+productbrand,Tistabene,44,0.86
+productbrand,SPYKAR,39,0.76
+productbrand,Titan,39,0.76
+productbrand,ELLE,39,0.76
+productbrand,ONLY,38,0.74
+productbrand,GAP,38,0.74
+productbrand,Geox,35,0.68
+productbrand,MSC,35,0.68
+productbrand,KLEIO,35,0.68
+productbrand,Lapis O Lupo,35,0.68
+productbrand,Puma,34,0.66
+productbrand,Oxolloxo,34,0.66
+productbrand,Marks & Spencer,34,0.66
+productbrand,Style Quotient,32,0.62
+productbrand,FableStreet,31,0.6
+productbrand,Alcis,30,0.59
+productbrand,Metro,30,0.59
+productbrand,Vero Moda,30,0.59
+productbrand,Priyaasi,30,0.59
+productbrand,Ginger by Lifestyle,30,0.59
+productbrand,Lady Lyka,29,0.57
+productbrand,Miss Chase,29,0.57
+productbrand,Jewels Galaxy,29,0.57
+productbrand,Alena,28,0.55
+productbrand,Saree mall,28,0.55
+productbrand,Ahalyaa,27,0.53
+productbrand,Biba,27,0.53
+productbrand,Studio Voylla,26,0.51
+productbrand,Sera,25,0.49
+productbrand,Genie,25,0.49
+productbrand,Bonjour,25,0.49
+productbrand,Mochi,24,0.47
+productbrand,EthnoVogue,23,0.45
+productbrand,Moda Rapido,23,0.45
+productbrand,Flying Machine,23,0.45
+productbrand,justpeachy,23,0.45
+productbrand,Park Avenue,22,0.43
+productbrand,Lady Stark,22,0.43
+productbrand,KazarMax,22,0.43
+productbrand,Kazo,21,0.41
+productbrand,INCOLOR,21,0.41
+productbrand,MISH,21,0.41
+productbrand,BuckleUp,20,0.39
+productbrand,Fastrack,20,0.39
+productbrand,Campus,20,0.39
+productbrand,her by invictus,19,0.37
+productbrand,ZHEIA,19,0.37
+productbrand,E2O,19,0.37
+productbrand,FAUSTO,18,0.35
+productbrand,Kraft Cellar,18,0.35
+productbrand,Signature Sole,18,0.35
+productbrand,amraoo,18,0.35
+productbrand,Lino Perros,18,0.35
+productbrand,ahilya,17,0.33
+productbrand,Varanga,17,0.33
+productbrand,Shaily,17,0.33
+productbrand,Cottinfab,17,0.33
+productbrand,GERUA,17,0.33
+productbrand,Daily Life Forever52,17,0.33
+productbrand,MBE,16,0.31
+productbrand,Cation,16,0.31
+productbrand,AHIKA,16,0.31
+productbrand,C9 AIRWEAR,15,0.29
+productbrand,DODO & MOA,15,0.29
+productbrand,Kraus Jeans,15,0.29
+productbrand,CASIO,15,0.29
+productbrand,Chkokko,15,0.29
+productbrand,Libas,15,0.29
+productbrand,Newport,15,0.29
+productbrand,Madame,15,0.29
+productbrand,AND,15,0.29
+productbrand,Jompers,15,0.29
+productbrand,Shoetopia,14,0.27
+productbrand,KARATCART,14,0.27
+productbrand,Naari,14,0.27
+productbrand,MANGO,13,0.25
+productbrand,MIMOSA,13,0.25
+productbrand,Mitera,13,0.25
+productbrand,Sonata,13,0.25
+productbrand,Chhabra 555,13,0.25
+productbrand,Peora,13,0.25
+productbrand,Ishin,12,0.23
+productbrand,TIMESMITH,12,0.23
+productbrand,Besiva,12,0.23
+productbrand,Voylla,12,0.23
+productbrand,plusS,12,0.23
+productbrand,HRX by Hrithik Roshan,12,0.23
+productbrand,Z-ZOOM,12,0.23
+productbrand,Plum,12,0.23
+productbrand,Lakme,11,0.21
+productbrand,DOROTHY PERKINS,11,0.21
+productbrand,Anekaant,11,0.21
+productbrand,Saadgi,11,0.21
+productbrand,RARE,11,0.21
+productbrand,HEATWAVE,11,0.21
+productbrand,ADORENITE,11,0.21
+productbrand,Hypernation,11,0.21
+productbrand,Ira Soleil,11,0.21
+productbrand,STREET 9,11,0.21
+productbrand,Rocia,10,0.2
+productbrand,Bhama Couture,10,0.2
+productbrand,LA LOFT,10,0.2
+productbrand,SOLES,10,0.2
+productbrand,OOMPH,10,0.2
+productbrand,Pipa Bella,10,0.2
+productbrand,NIZA,10,0.2
+productbrand,Rangoli Jaipur,10,0.2
+productbrand,QUIERO,10,0.2
+productbrand,Bvlgari,9,0.18
+productbrand,Da Intimo,9,0.18
+productbrand,Clovia,9,0.18
+productbrand,YASH GALLERY,9,0.18
+productbrand,Latin Quarters,9,0.18
+productbrand,URBANE,9,0.18
+productbrand,Kurti's by Menka,9,0.18
+productbrand,Saint G,9,0.18
+productbrand,Indo Era,9,0.18
+productbrand,Instacrush,9,0.18
+productbrand,Yuris,8,0.16
+productbrand,Zink London,8,0.16
+productbrand,Truffle Collection,8,0.16
+productbrand,Bamboo Tree Jewels,8,0.16
+productbrand,Eske,8,0.16
+productbrand,Blisscovered,8,0.16
+productbrand,Aujjessa,8,0.16
+productbrand,fungus,8,0.16
+productbrand,The Vanca,8,0.16
+productbrand,Reebok,8,0.16
+productbrand,SWAROVSKI,8,0.16
+productbrand,Golden Girl,8,0.16
+productbrand,Kenneth Cole,7,0.14
+productbrand,Michael Kors,7,0.14
+productbrand,ZUSH,7,0.14
+productbrand,shaze,7,0.14
+productbrand,Tulsattva,7,0.14
+productbrand,Elizabeth Arden,7,0.14
+productbrand,Rajnandini,7,0.14
+productbrand,Femmora,7,0.14
+productbrand,ADORN by Nikita Ladiwala,7,0.14
+productbrand,Minions by Kook N Keech,7,0.14
+productbrand,Taavi,7,0.14
+productbrand,hummel,7,0.14
+productbrand,Lady Love,7,0.14
+productbrand,The Pink Moon,7,0.14
+productbrand,Amante,7,0.14
+productbrand,Rajesh Silk Mills,7,0.14
+productbrand,Varkala Silk Sarees,7,0.14
+productbrand,Hubberholme,7,0.14
+productbrand,Allen Solly Woman,6,0.12
+productbrand,ether,6,0.12
+productbrand,Annabelle by Pantaloons,6,0.12
+productbrand,Moedbuille,6,0.12
+productbrand,Be Indi,6,0.12
+productbrand,FabAlley,6,0.12
+productbrand,People,6,0.12
+productbrand,Monrow,6,0.12
+productbrand,Just Wow,6,0.12
+productbrand,GIO COLLECTION,6,0.12
+productbrand,WESTCLO,6,0.12
+productbrand,Lacoste,6,0.12
+productbrand,BOLLYGLOW,6,0.12
+productbrand,Braun,6,0.12
+productbrand,U.S. Polo Assn. Women,6,0.12
+productbrand,Genius18,6,0.12
+productbrand,Ives,6,0.12
+productbrand,Russell Athletic,5,0.1
+productbrand,The Kaftan Company,5,0.1
+productbrand,Blissta,5,0.1
+productbrand,Chumbak,5,0.1
+productbrand,CHROME & CORAL,5,0.1
+productbrand,Geroo Jaipur,5,0.1
+productbrand,ANTS,5,0.1
+productbrand,Zivame,5,0.1
+productbrand,Reebok Classic,5,0.1
+productbrand,Tikhi Imli,5,0.1
+productbrand,DKNY,4,0.08
+productbrand,GUESS,4,0.08
+productbrand,BERING,4,0.08
+productbrand,Abhishti,4,0.08
+productbrand,Janasya,4,0.08
+productbrand,United Colors of Benetton,4,0.08
+productbrand,Caprese,4,0.08
+productbrand,FOSH,4,0.08
+productbrand,Akiva,4,0.08
+productbrand,meriggiare,4,0.08
+productbrand,Yaadleen,4,0.08
+productbrand,RAISIN,4,0.08
+productbrand,FABNEST,4,0.08
+productbrand,SEIKO,4,0.08
+productbrand,Vastraa Fusion,4,0.08
+productbrand,SHINGORA,4,0.08
+productbrand,Chopard,4,0.08
+productbrand,Rozia,3,0.06
+productbrand,Beli,3,0.06
+productbrand,THE SILHOUETTE STORE,3,0.06
+productbrand,maxima,3,0.06
+productbrand,Healers,3,0.06
+productbrand,Nike,3,0.06
+productbrand,Senorita,3,0.06
+productbrand,Trend Arrest,3,0.06
+productbrand,Mali Fionna,3,0.06
+productbrand,PANIT,3,0.06
+productbrand,JUMP USA,3,0.06
+productbrand,AKKRITI BY PANTALOONS,3,0.06
+productbrand,Silvermerc Designs,3,0.06
+productbrand,COVER STORY,3,0.06
+productbrand,Mine4Nine,3,0.06
+productbrand,Secret Temptation,3,0.06
+productbrand,mf,3,0.06
+productbrand,7Rainbow,3,0.06
+productbrand,VALIOSAA,3,0.06
+productbrand,Ayesha,3,0.06
+productbrand,INDYA,3,0.06
+productbrand,Rubans,3,0.06
+productbrand,PrettyCat,3,0.06
+productbrand,CODE by Lifestyle,3,0.06
+productbrand,MANOHARI,3,0.06
+productbrand,20Dresses,3,0.06
+productbrand,Enamor,3,0.06
+productbrand,DOT & KEY,3,0.06
+productbrand,Superdry,3,0.06
+productbrand,SCOUP,3,0.06
+productbrand,KAMA AYURVEDA,3,0.06
+productbrand,SKAGEN,3,0.06
+productbrand,Antheaa,3,0.06
+productbrand,Revlon,3,0.06
+productbrand,Rain & Rainbow,3,0.06
+productbrand,AIGNER,3,0.06
+productbrand,Levis,3,0.06
+productbrand,Shoe Couture,2,0.04
+productbrand,HARBORNBAY,2,0.04
+productbrand,Xpose,2,0.04
+productbrand,JC Collection,2,0.04
+productbrand,Kook N Keech Disney,2,0.04
+productbrand,Honey by Pantaloons,2,0.04
+productbrand,Crocs,2,0.04
+productbrand,Ojjasvi,2,0.04
+productbrand,Crunchy Fashion,2,0.04
+productbrand,trueBrowns,2,0.04
+productbrand,Forever New,2,0.04
+productbrand,Blue Saint,2,0.04
+productbrand,Newton,2,0.04
+productbrand,Nucleus,2,0.04
+productbrand,Globus,2,0.04
+productbrand,ZIYAA,2,0.04
+productbrand,Eavan,2,0.04
+productbrand,Namyaa,2,0.04
+productbrand,Baggit,2,0.04
+productbrand,RANGMANCH BY PANTALOONS,2,0.04
+productbrand,The Beauty Co.,2,0.04
+productbrand,Tresmode,2,0.04
+productbrand,Stylee LIFESTYLE,2,0.04
+productbrand,Calvin Klein Underwear,2,0.04
+productbrand,Zaveri Pearls,2,0.04
+productbrand,Skechers,2,0.04
+productbrand,WILD WEST,2,0.04
+productbrand,Street Style Store,2,0.04
+productbrand,WISSTLER,2,0.04
+productbrand,Vozaf,2,0.04
+productbrand,The House of Tara,2,0.04
+productbrand,Free Authority,2,0.04
+productbrand,Anouk,2,0.04
+productbrand,ADIDAS Originals,2,0.04
+productbrand,Fusion Beats,2,0.04
+productbrand,The Dry State,2,0.04
+productbrand,Makeup Revolution London,2,0.04
+productbrand,Ponds,2,0.04
+productbrand,Khushal K,2,0.04
+productbrand,DUGRISTYLE,2,0.04
+productbrand,Renka,2,0.04
+productbrand,Moon Dust,2,0.04
+productbrand,Kappa,2,0.04
+productbrand,MomToBe,2,0.04
+productbrand,Inddus,2,0.04
+productbrand,Laceandme,2,0.04
+productbrand,Maybelline,2,0.04
+productbrand,ToniQ,2,0.04
+productbrand,ULRIC DE VARENS,2,0.04
+productbrand,ANNA SUI,1,0.02
+productbrand,Lara Karen,1,0.02
+productbrand,GAS,1,0.02
+productbrand,Keds,1,0.02
+productbrand,Monte Carlo,1,0.02
+productbrand,Jn Joy,1,0.02
+productbrand,StyleStone,1,0.02
+productbrand,SASSAFRAS,1,0.02
+productbrand,Police,1,0.02
+productbrand,Crimsoune Club,1,0.02
+productbrand,SCORPIUS,1,0.02
+productbrand,MOVADO,1,0.02
+productbrand,AVANT-GARDE PARIS,1,0.02
+productbrand,Gliders,1,0.02
+productbrand,U&F,1,0.02
+productbrand,Indibelle,1,0.02
+productbrand,Athena,1,0.02
+productbrand,Sherrif Shoes,1,0.02
+productbrand,Slumber Jill,1,0.02
+productbrand,Mirchi Fashion,1,0.02
+productbrand,Force 10,1,0.02
+productbrand,Infuzze,1,0.02
+productbrand,Call It Spring,1,0.02
+productbrand,MsFQ,1,0.02
+productbrand,Foolzy,1,0.02
+productbrand,Liberty,1,0.02
+productbrand,Sangria,1,0.02
+productbrand,St. Ives,1,0.02
+productbrand,shiloh,1,0.02
+productbrand,Jacques Lemans,1,0.02
+productbrand,PERFKT-U,1,0.02
+productbrand,Devis,1,0.02
+productbrand,MIWAY,1,0.02
+productbrand,Smiley World,1,0.02
+productbrand,Marie Claire,1,0.02
+productbrand,Aber & Q,1,0.02
+productbrand,ABELINO,1,0.02
+productbrand,Harpa,1,0.02
+productbrand,breya,1,0.02
+productbrand,Wonder Woman,1,0.02
+productbrand,CERIZ,1,0.02
+productbrand,Chemistry,1,0.02
+productbrand,Chambor,1,0.02
+productbrand,Aditi Wasan,1,0.02
+productbrand,Iti,1,0.02
+productbrand,Rosaline,1,0.02
+productbrand,Kook N Keech Garfield,1,0.02
+productbrand,Tissu,1,0.02
+productbrand,yelloe,1,0.02
+productbrand,Aerosoles,1,0.02
+productbrand,Alom,1,0.02
+productbrand,pinwheel,1,0.02
+productbrand,Campus Sutra,1,0.02
+productbrand,The Chennai Silks,1,0.02
+productbrand,Sherlock,1,0.02
+productbrand,De Moza,1,0.02
+productbrand,Zelocity,1,0.02
+productbrand,Peanuts,1,0.02
+productbrand,AASK,1,0.02
+productbrand,Lychee bags,1,0.02
+productbrand,CORSICA,1,0.02
+productbrand,Purple Feather,1,0.02
+productbrand,FOREVER 21,1,0.02
+productbrand,I AM FOR YOU,1,0.02
+productbrand,Philips,1,0.02
+productbrand,Purple State,1,0.02
+productbrand,FLAVIDO,1,0.02
+productbrand,Qurvii,1,0.02
+productbrand,Noble Faith,1,0.02
+productbrand,PURYS,1,0.02
+productbrand,House of Pataudi,1,0.02
+productbrand,INVU,1,0.02
+productbrand,Marvel by Wear Your Mind,1,0.02
+productbrand,ESPRIT,1,0.02
+productbrand,PRITA,1,0.02
+productbrand,Satrani,1,0.02
+productbrand,109F,1,0.02
+gender,Women,5126,100.0
+primarycolor,Blue,1107,21.6
+primarycolor,Red,978,19.08
+primarycolor,Black,686,13.38
+primarycolor,Green,403,7.86
+primarycolor,White,328,6.4
+primarycolor,Pink,276,5.38
+primarycolor,Gold,213,4.16
+primarycolor,Yellow,204,3.98
+primarycolor,Grey,192,3.75
+primarycolor,Brown,159,3.1
+primarycolor,Beige,137,2.67
+primarycolor,Maroon,112,2.18
+primarycolor,Silver,102,1.99
+primarycolor,Orange,53,1.03
+primarycolor,Burgundy,39,0.76
+primarycolor,Purple,34,0.66
+primarycolor,Matte,27,0.53
+primarycolor,Rose,21,0.41
+primarycolor,Navy,18,0.35
+primarycolor,Magenta,10,0.2
+primarycolor,Lavender,9,0.18
+primarycolor,Mustard,8,0.16
+primarycolor,Charcoal,3,0.06
+primarycolor,Peach,2,0.04
+primarycolor,Khaki,2,0.04
+primarycolor,Bronze,2,0.04
+primarycolor,Platinum,1,0.02
